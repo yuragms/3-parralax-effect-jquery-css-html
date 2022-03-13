@@ -1,0 +1,56 @@
+*,
+*:before,
+*:after {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+}
+/*Стили для демонстрации*/
+
+body {
+  background-color: #eee;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.wrapper {
+  width: 100%;
+  min-height: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+/*Основные стили*/
+
+.page {
+}
+.parallax {
+}
+.parallax__montain {
+}
+.parallax__montain_1 {
+}
+.parallax__montain_2 {
+}
+.parallax__montain_3 {
+}
+.parallax__fog {
+}
+.content {
+}
+.content__body {
+}
+.content_header {
+}
+.content_title {
+}
+.content_subtitle {
+}
+.content__article {
+}
